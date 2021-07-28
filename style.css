@@ -1,0 +1,48 @@
+.navbar {
+	padding-left: 30px;
+}
+
+.magnify {
+color: white;
+font-size: 40px;
+}
+
+.play {
+	background-color: lightgray;
+}
+
+.half {
+	padding: 5% 5% 5% 5%;	
+}
+
+.first {
+	background-color: white;
+	padding: 30px 50px 10px 50px;
+}
+
+.black	{
+	background-color: black;
+}
+
+.border {
+	border: 2px;
+	margin: 2px;
+	padding: 5px;
+}
+
+.white {
+	color: white;
+	padding: 20px
+}
+
+.last {
+	background-color: white;
+}	
+
+.move {
+	padding: 10px 5px 5px 10px;
+}
+
+.help {
+	padding: 5px 10px 
+}
